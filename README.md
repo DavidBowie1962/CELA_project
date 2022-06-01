@@ -5,12 +5,17 @@
 There are three python files here: get_figi.py, get_candles.py, get_orderbook.py.
 
 get_figi.py to get figi by the ticker;
+
 get_candles.py to get the csv file with candles of the stock;
+
 get_orderbook.py to get the orderbook of the stock;
 
 And additional .csv files
+
 In stocks.csv there are examples of the most liquid stock on MOEX
+
 In creds there are credentials for the proper work
+
 In sber / mgnt.csv there is data about the stocks
 
 To work with the files, do as following
