@@ -1,4 +1,4 @@
-# CELA_project
+# Cross exchange liquidity analysis
 ### In the main directory there are all files connected to the data collection.
 ### In the folder 'Analysis' there are files with the analysis of the data.
 
