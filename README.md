@@ -1,5 +1,5 @@
 # Cross exchange liquidity analysis
-### In the main directory there are all files connected to the data collection.
+### In the main directory there are files connected to the data collection.
 ### In the folder 'Analysis' there are files with the analysis of the data.
 
 There are three python files here: get_figi.py, get_candles.py, get_orderbook.py.
