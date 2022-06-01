@@ -1,4 +1,4 @@
-token = "t.yQ4i5kVVKBmx_QuG3QIwivuCFq0gV6KjkyZOjkMCqgWMQQVLsdLoSC9W69-W98l4lTADekvsec8BA7GrGuE1SA"
+token = "" # insert your own token
 account_id = '2025863826'
 class_code_bonds = "TQOB"
 class_code_shares = "TQBR"
